@@ -1,14 +1,15 @@
-🏡 Melbourne Housing Price Prediction
+#🏡 Melbourne Housing Price Prediction
 
 This project uses the Melbourne Housing Dataset to predict house prices with the help of Machine Learning (Random Forest Regressor).
 
+---
 
-⚙️ Tech Used
+##⚙️ Tech Used
 
-Python 🐍
+-Python 🐍
 
-Pandas, NumPy (Data Handling)
+-Pandas, NumPy (Data Handling)
 
-Matplotlib, Seaborn (Visualization)
+-Matplotlib, Seaborn (Visualization)
 
-Scikit-learn (Modeling & Evaluation)
+-Scikit-learn (Modeling & Evaluation)
