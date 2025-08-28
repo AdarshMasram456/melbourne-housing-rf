@@ -2,8 +2,8 @@
 
 This project uses the Melbourne Housing Dataset to predict house prices with the help of Machine Learning (Random Forest Regressor).
 
-⚙️ Tech Stack
 
+⚙️ Tech Used
 
 Python 🐍
 
